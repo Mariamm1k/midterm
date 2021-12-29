@@ -1,3 +1,5 @@
+
+
 .logo{
     margin-top: 40px;
     margin-left: 80px;
@@ -10,12 +12,16 @@ a{
     text-decoration: none;
 }
 ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }
 li{
     margin-left: 94px;
 }
 .div-nav{
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
     display: inline-flex;
     background-color: #EBEBEB;
     float: right;
