@@ -1,0 +1,90 @@
+.logo{
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+.header{
+    background-color: #C6D5FF;
+}
+a{
+    text-decoration: none;
+}
+
+.div-nav{
+    display: inline-flex;
+    background-color: #EBEBEB;
+    float: right;
+    margin-top: 54px;
+    width: 540px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.active{
+    color: #A00000;
+}
+.unactive{
+    color: #000000;
+
+}
+.body{
+    background-color:#C6D5FF ;
+}
+.notebook{
+    padding: 70px 50px 93px 50px ;
+}
+
+
+h3{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 60px;
+
+}
+.news{
+    margin-left: 50px;
+    display: inline-block;
+}
+h5{
+    font-size: 25px;
+    padding-top: 31px;
+    padding-bottom: 62px;
+    color: #4D4F5C;
+}
+p{
+    width: 804px;
+    font-size: 15px;
+    color: #7C7C91;
+}
+h6{
+    color: #FF4141;
+    font-size: 18px;
+    float: right;
+    margin-top: 35px;
+}
+
+article{
+    margin-left: 50px;
+    display: inline-block;
+    padding-top: 118px;
+
+}
+h2{
+
+    margin-left: 24px;
+    font-size: 25px;
+}
+
+.girlimage{
+    float: right;
+}
+
+footer{
+    background-color: #7F8094;
+}
+.footerimage{
+    width: 50px;
+    height: 50px;
+    margin-top: 34px;
+
+       
+}
