@@ -9,7 +9,12 @@
 a{
     text-decoration: none;
 }
-
+ul{
+    display: flex;
+}
+li{
+    margin-left: 94px;
+}
 .div-nav{
     display: inline-flex;
     background-color: #EBEBEB;
@@ -18,6 +23,7 @@ a{
     width: 540px;
     font-size: 20px;
     font-weight: bold;
+    padding: 17px 65px 19px 36px;
 }
 .active{
     color: #A00000;
@@ -64,18 +70,16 @@ h6{
 
 article{
     margin-left: 50px;
-    display: inline-block;
     padding-top: 118px;
 
 }
 h2{
-
     margin-left: 24px;
     font-size: 25px;
 }
 
 .girlimage{
-    float: right;
+    float: left;
 }
 
 footer{
@@ -85,6 +89,5 @@ footer{
     width: 50px;
     height: 50px;
     margin-top: 34px;
-
-       
+  
 }
